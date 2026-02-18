@@ -1,0 +1,28 @@
+Note: {Please also provide the real time quant interview questions and scenarios}
+
+What are situations where we prefer to use these basic rules? Please list down some sitaution where to use and also how to approach the problem and how apply which rule as per the problem?
+
+Q2.How each curve describes the scenario or what does and how does the curve tell us about the data?
+
+Q3. Why coin flips don't come under random events where as rolling a fair dice?
+
+Or
+
+Why rolling a fair dice is considered as a random event not a binomial distribution and why the coin flips?
+
+Q4. Please provide some more examples where each distribution is being worked or followed.
+
+Q5.
+- **Mean (μ):** Center of the distribution
+   - **Standard Deviation (σ):** Spread/width
+How to explain this to a layman?
+
+Q6.
+From this ### Example: Stock Returns
+how it is calculated that - Only 0.3% of days: return beyond ±6%
+
+Q7. So what is the usual value of the Z-Score  ?
+
+Q8. What are the Z-Score various values stand for? like | **Z-Score > 2** | Unusual profitable opportunity OR execution error |
+
+
